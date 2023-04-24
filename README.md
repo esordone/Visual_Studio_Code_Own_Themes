@@ -1,4 +1,4 @@
-# new_json
+# Visual Studio New Theme
 
 Extensiones y demás:
 
